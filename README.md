@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DCrossland
-- 🌱 I currently work with SQL, Power Bi, Dax and Power Query on Social Care data.
-- 👀 I'm curently learning Python through guided projects.
+- 🌱 I currently work with Python, SQL, Power Bi, Dax and Power Query.
+- 👀 I'm curently undertaking MSc Data Science through University of London.
 
 
 
